@@ -1,5 +1,5 @@
 # Hello Github ^^
-### today, i learn communicate using markdown, it's so fun ><
+today, i learn communicate using markdown, it's so fun ><
 
 ### FIGHTING!!
 
@@ -16,3 +16,8 @@ example 2
 ``` javascript
 var myVar = "Hello, Citra!";
 ```
+
+## i'll make a task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portofolio
+- [ ] Introduce my self to the world
